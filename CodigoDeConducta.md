@@ -1,11 +1,10 @@
 # Code-of-Conduct
 NumFOCUS Code of Conduct
 
-Be kind to others. Do not insult or put down others. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for NumFOCUS.
+Se amable con otros. No insultes ni menosprecies a los demás. Compórtate profesionalmente. Recuerda que el acoso y las bromas sexistas, racistas o excluyentes no son apropiados para NumFOCUS.
 
-All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate.
+Toda la comunicación debe ser apropiada para una audiencia profesional que incluya personas de diferentes orígenes. El lenguaje y las imágenes sexuales no son apropiados.
 
-NumFOCUS is dedicated to providing a harassment-free community for everyone, regardless of gender, sexual orientation, gender identity and expression, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of community members in any form.
+NumFOCUS se dedica a proporcionar una comunidad libre de acoso para todos, independientemente de su género, orientación sexual, identidad y expresión de género, discapacidad, apariencia física, tamaño del cuerpo, raza o religión. No toleramos el acoso de los miembros de la comunidad de ninguna forma.
 
-Thank you for helping make this a welcoming, friendly community for all.
-
+Gracias por ayudar a hacer de esta una comunidad acogedora y amistosa para todos.
